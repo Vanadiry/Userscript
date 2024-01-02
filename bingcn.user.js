@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://raw.githubusercontent.com/Vanadiry/Userscript/main/bingcn.user.js
 // @downloadURL  https://raw.githubusercontent.com/Vanadiry/Userscript/main/bingcn.user.js
-// @version      0.1.0
+// @version      0.1.1
 // @author       Vanadiry
 // @match        *://cn.bing.com/*
 // @icon         https://icon.vanadiry.com/svg/bing.svg

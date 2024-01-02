@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://raw.githubusercontent.com/Vanadiry/Userscript/main/Fxxk.YMZX.inBili.user.js
 // @downloadURL  https://raw.githubusercontent.com/Vanadiry/Userscript/main/Fxxk.YMZX.inBili.user.js
-// @version      0.1.0
+// @version      0.1.1
 // @author       Vanadiry
 // @match        *.bilibili.com/*
 // @icon         https://icon.vanadiry.com/svg/access.svg
