@@ -7,6 +7,7 @@
 // @version      0.1.0
 // @author       Vanadiry
 // @match        *.bilibili.com/*
+// @icon         https://icon.vanadiry.com/svg/access.svg
 // @grant        none
 // ==/UserScript==
 
