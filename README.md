@@ -1,6 +1,6 @@
 # Userscript
 
-自己用的脚本，非常的不错。
+自己用的脚本，非常的新鲜非常的美味。
 
 去除B站无用内容：[安装](https://raw.githubusercontent.com/Vanadiry/Userscript/main/Fxxk.Bilibili.ADs.user.js)
 
