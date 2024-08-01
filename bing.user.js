@@ -7,7 +7,7 @@
 // @version      1.0.1
 // @author       Vanadiry
 // @match        *://*.bing.com/*
-// @icon         https://img.vanadiry.com/icon/svg/bing.svg
+// @icon         https://img.vanadiry.com/icon/bing.svg
 // @grant        none
 // ==/UserScript==
 
