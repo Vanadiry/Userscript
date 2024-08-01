@@ -2,8 +2,8 @@
 // @name         去除Bing首页资讯等无用内容
 // @description  去除cn.bing和www.bing中的资讯、无用图标、无用列表等元素
 // @namespace    http://tampermonkey.net/
-// @updateURL    https://raw.githubusercontent.com/Vanadiry/Userscript/main/bing.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vanadiry/Userscript/main/bing.user.js
+// @updateURL    https://subscribe.vanadiry.com/bing.user.js
+// @downloadURL  https://subscribe.vanadiry.com/bing.user.js
 // @version      1.0.1
 // @author       Vanadiry
 // @match        *://*.bing.com/*

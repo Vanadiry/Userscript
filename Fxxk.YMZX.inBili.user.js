@@ -2,8 +2,8 @@
 // @name         RNM元梦之星
 // @description  如题
 // @namespace    http://tampermonkey.net/
-// @updateURL    https://raw.githubusercontent.com/Vanadiry/Userscript/main/Fxxk.YMZX.inBili.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vanadiry/Userscript/main/Fxxk.YMZX.inBili.user.js
+// @updateURL    https://subscribe.vanadiry.com/Fxxk.YMZX.inBili.user.js
+// @downloadURL  https://subscribe.vanadiry.com/Fxxk.YMZX.inBili.user.js
 // @version      0.1.2
 // @author       Vanadiry
 // @match        *.bilibili.com/*
